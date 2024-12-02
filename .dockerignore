@@ -1,0 +1,22 @@
+# Ignorar dependencias locales
+node_modules
+
+# Ignorar archivos de construcción
+build
+
+# Ignorar configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas de control de versiones
+.git
+.gitignore
+
+# Ignorar archivos de configuración del editor
+.vscode
+.idea
+
+# Ignorar logs y archivos temporales
+npm-debug.log
+yarn-debug.log
+yarn-error.log
