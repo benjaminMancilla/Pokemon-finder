@@ -16,7 +16,7 @@ body {
 
 @media (max-width: 576px) {
   body {
-    padding-top: 300px;
+    padding-top: 20rem;
   }
 }
 
@@ -26,7 +26,7 @@ body {
   color: #fff;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  margin-top: 12rem;
+  margin-top: 8rem;
 }
 
 
