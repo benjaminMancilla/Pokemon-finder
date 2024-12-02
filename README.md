@@ -35,7 +35,7 @@ This proyect was made it for the **"Desafío BLOOM"** challenge.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pokemon-finder.git
+   git clone https://github.com/benjaminMancilla/pokemon-finder.git
    cd pokemon-finder
    ```
 2. Install dependencies:
